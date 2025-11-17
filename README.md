@@ -2,22 +2,22 @@ To run your app every session in CMD:
 
 Set your Node.js path (in every new CMD window):
 
-text
+
 set PATH=C:\Users\thiruvar\nodejs;%PATH%
 Go to your project folder:
 
-text
+
 cd C:\Users\thiruvar\awesome-custom-cortex-agents-rest-api-react-app
 Check Node.js and npm:
 
-text
+
 node -v
 npm -v
 You should see their version numbers.
 
 To install and run the app:
 
-text
+
 npm install
 npm run start:all
 
@@ -381,5 +381,6 @@ REACT_APP_BACKEND_URL=https://my-function.vercel.app npm run build
 ## Questions
 
 If you have any questions, comments or feedack, reach out to [Dash DesAI](https://www.linkedin.com/in/dash-desai/).
+
 
 
