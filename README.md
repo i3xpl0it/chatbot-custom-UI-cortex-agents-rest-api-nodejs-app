@@ -19,6 +19,7 @@ To install and run the app:
 
 
 npm install
+
 npm run start:all
 
 
@@ -381,6 +382,7 @@ REACT_APP_BACKEND_URL=https://my-function.vercel.app npm run build
 ## Questions
 
 If you have any questions, comments or feedack, reach out to [Dash DesAI](https://www.linkedin.com/in/dash-desai/).
+
 
 
 
